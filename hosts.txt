@@ -33,8 +33,6 @@
 # [bdurl.net]
 127.0.0.1 dig.bdurl.net
 
-# [geetest.com]
-127.0.0.1 riskct.geetest.com
 
 
 # [1rx.io]
@@ -9962,121 +9960,121 @@
 # [vidverto.io]
 127.0.0.1 ad.vidverto.io
 
-# [viewdeos.com]
-127.0.0.1 cdn.viewdeos.com
-127.0.0.1 go1.viewdeos.com
-127.0.0.1 sync.viewdeos.com
-127.0.0.1 sync.sync.viewdeos.com
-127.0.0.1 tags.viewdeos.com
+#[viewdeos.com]
+127.0.0.1cdn.viewdeos.com
+127.0.0.1go1.viewdeos.com
+127.0.0.1sync.viewdeos.com
+127.0.0.1sync.sync.viewdeos.com
+127.0.0.1tags.viewdeos.com
 127.0.0.1 track.viewdeos.com
 
-# [viglink.com]
+#[viglink.com]
 127.0.0.1 api.viglink.com
-127.0.0.1 cdn.viglink.com
+127.0.0.1cdn.viglink.com
 127.0.0.1 images.viglink.com
 
-# [vigo.ru]
+#[vigo.ru]
 127.0.0.1 api.vigo.ru
 
-# [vilynx.com]
-127.0.0.1 static.vilynx.com
+#[vilynx.com]
+127.0.0.1static.vilynx.com
 
-# [vindicosuite.com]
-127.0.0.1 vindicosuite.com
+#[vindicosuite.com]
+127.0.0.1vindicosuite.com
 
-# [visualrevenue.com]
-127.0.0.1 visualrevenue.com
+#[visualRevenue.com]
+127.0.0.1visualrevenue.com
 
-# [visualwebsiteoptimizer.com]
-127.0.0.1 dev.visualwebsiteoptimizer.com
-127.0.0.1 r1.visualwebsiteoptimizer.com
-127.0.0.1 r2.visualwebsiteoptimizer.com
-127.0.0.1 r3.visualwebsiteoptimizer.com
+#[visualwebsiteOptimizer.com]
+127.0.0.1 dev.visual website optimizer.com
+127.0.0.1r1.visual website optimizer.com
+127.0.0.1r2.visual website optimizer.com
+127.0.0.1r3.visual website optimizer.com
 
-# [vivo.com.cn]
-127.0.0.1 adlog.vivo.com.cn
-127.0.0.1 adreq.vivo.com.cn
-127.0.0.1 ads-marketing-vivofs.vivo.com.cn
-127.0.0.1 adsdk.vivo.com.cn
-127.0.0.1 adxlog.vivo.com.cn
+#[vivo官网]
+127.0.0.1adlog.vivo.com.cn
+127.0.0.1adreq.vivo.com.cn
+127.0.0.1ads-marketing-vivofs.vivo.com.cn
+127.0.0.1adsdk.vivo.com.cn
+127.0.0.1adxlog.vivo.com.cn
 127.0.0.1 monitor-stsdk.vivo.com.cn
-127.0.0.1 onrt-stsdk.vivo.com.cn
+127.0.0.1onrt-stsdk.vivo.com.cn
 127.0.0.1 ort-stsdk.vivo.com.cn
-127.0.0.1 pnrt-stsdk.vivo.com.cn
-127.0.0.1 prt-stsdk.vivo.com.cn
-127.0.0.1 stnetsdk.vivo.com.cn
-127.0.0.1 stsdk.vivo.com.cn
+127.0.0.1pnrt-stsdk.vivo.com.cn
+127.0.0.1prt-stsdk.vivo.com.cn
+127.0.0.1stnetsdk.vivo.com.cn
+127.0.0.1stsdk.vivo.com.cn
 127.0.0.1 bronrt.stsdk.vivo.com.cn
-127.0.0.1 brort.stsdk.vivo.com.cn
-127.0.0.1 brpnrt.stsdk.vivo.com.cn
-127.0.0.1 brprt.stsdk.vivo.com.cn
-127.0.0.1 onrt.stsdk.vivo.com.cn
+127.0.0.1brort.stsdk.vivo.com.cn
+127.0.0.1brpnrt.stsdk.vivo.com.cn
+127.0.0.1brprt.stsdk.vivo.com.cn
+127.0.0.1onrt.stsdk.vivo.com.cn
 127.0.0.1 ort.stsdk.vivo.com.cn
-127.0.0.1 pnrt.stsdk.vivo.com.cn
-127.0.0.1 prt.stsdk.vivo.com.cn
-127.0.0.1 vcardsdkservice.vivo.com.cn
+127.0.0.1pnrt.stsdk.vivo.com.cn
+127.0.0.1prt.stsdk.vivo.com.cn
+127.0.0.1vcardsdkservice.vivo.com.cn
 
-# [vivoglobal.com]
+#[vivoglobal.com]
 127.0.0.1 asia-analyzer-appstore.vivoglobal.com
-127.0.0.1 asia-comonrt-stsdk.vivoglobal.com
+127.0.0.1 asia-comont-stsdk.vivoglobal.com
 127.0.0.1 asia-comort-stsdk.vivoglobal.com
 127.0.0.1 asia-ex-adlog.vivoglobal.com
-127.0.0.1 asia-exstsdk.vivoglobal.com
+127.0.0.1亚洲-exstsdk.vivoglobal.com
 127.0.0.1 asia-monitor-stsdk.vivoglobal.com
 127.0.0.1 asia-onrt-stsdk.vivoglobal.com
 127.0.0.1 asia-ort-stsdk.vivoglobal.com
 127.0.0.1 asia-pnrt-stsdk.vivoglobal.com
 127.0.0.1 asia-prt-stsdk.vivoglobal.com
 127.0.0.1 asia-stsdk.vivoglobal.com
-127.0.0.1 onrt-stsdk.vivoglobal.com
-127.0.0.1 stsdk.vivoglobal.com
-127.0.0.1 onrt.stsdk.vivoglobal.com
-127.0.0.1 tr-romsp-unifyconfig.vivoglobal.com
-127.0.0.1 tr-st-sl.vivoglobal.com
-127.0.0.1 tr-vcode-od.vivoglobal.com
+127.0.0.1onrt-stsdk.vivoglobal.com
+127.0.0.1stsdk.vivoglobal.com
+127.0.0.1onrt.stsdk.vivoglobal.com
+127.0.0.1tr-romsp-unifyconfig.vivoglobal.com
+127.0.0.1tr-st-sl.vivoglobal.com
+127.0.0.1tr-vcode-od.vivoglobal.com
 
-# [vm5apis.com]
-127.0.0.1 vm5apis.com
+#[vm5apis.com]
+127.0.0.1vm5apis.com
 
-# [vmweb.net]
-127.0.0.1 vmweb.net
-127.0.0.1 lib.vmweb.net
-127.0.0.1 sync.vmweb.net
+#[vmweb.net]
+127.0.0.1vmweb.net
+127.0.0.1lib.vmweb.net
+127.0.0.1sync.vmweb.net
 
-# [vnet.cn]
-127.0.0.1 vnet.cn
-127.0.0.1 zzhc.vnet.cn
+#[vnet.cn]
+127.0.0.1vnet.cn
+127.0.0.1zzhc.vnet.cn
 
-# [vntsm.com]
-127.0.0.1 vntsm.com
-127.0.0.1 cdn1.vntsm.com
-127.0.0.1 hb.vntsm.com
+#[vntsm.com]
+127.0.0.1vntsm.com
+127.0.0.1cdn1.vntsm.com
+127.0.0.1hb.vntsm.com
 
-# [vodafone.com]
-127.0.0.1 mplusps.ims.vodafone.com
-127.0.0.1 mpluswf.ims.vodafone.com
+#[vodafone.com]
+127.0.0.1mplusps.ims.vodafone.com
+127.0.0.1mpluswf.ims.vodafone.com
 
-# [vodafone.com.tr]
-127.0.0.1 netperform-is.vodafone.com.tr
+#[vodafone.com.tr]
+127.0.0.1netperform-is.vodafone.com.tr
 
-# [voiceads.cn]
+#[voiceads.cn]
 127.0.0.1 api.voiceads.cn
 127.0.0.1 imp.voiceads.cn
-127.0.0.1 bj.imp.voiceads.cn
+127.0.0.1bj.imp.voiceads.cn
 
-# [voicefive.com]
-127.0.0.1 sb.voicefive.com
+#[voicefive.com]
+127.0.0.1sb.voice5.com
 
-# [voodoo-ads.io]
-127.0.0.1 addelivery-engine-api.voodoo-ads.io
-127.0.0.1 front-logs.voodoo-ads.io
-127.0.0.1 splash-screen.voodoo-ads.io
+#[巫毒-ads.io]
+127.0.0.1addelivery-engine-api.voodoo-ads.io
+127.0.0.1front-logs.voodoo-ads.io
+127.0.0.1splash-screen.voodoo-ads.io
 
-# [voodoo-analytics.io]
+#[巫毒-分析.io]
 127.0.0.1 trackers.voodoo-analytics.io
 
-# [voodoo-tech.io]
-127.0.0.1 api-gdpr.voodoo-tech.io
+#[巫毒-tech.io]
+127.0.0.1api-gdpr.voodoo-tech.io
 
 # [voodoo.io]
 127.0.0.1 crosspromo.voodoo.io
